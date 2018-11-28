@@ -1,2 +1,2 @@
 # android-app-calmanix
-its a project for people who dont have bells on their bikes
+Simple hobby project to practise using a ide i found
